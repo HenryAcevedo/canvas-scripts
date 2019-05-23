@@ -33,6 +33,9 @@ These lines read from the config.ini file and select the instance. By changing t
 * [Canvas Live API](https://calstatela.instructure.com/doc/api/live)
 * [Canvas Unsupported Scripts](https://github.com/unsupported/canvas)
 You can find unsupported scripts for Canvas here. For example they have a script for batch restoring backup files from other LMS into Canvas.
+* [Canvas API Basics](https://community.canvaslms.com/docs/DOC-14390-canvas-apis-getting-started-the-practical-ins-and-outs-gotchas-tips-and-tricks)
+* [Security around Developer Keys](https://community.canvaslms.com/groups/admins/blog/2019/01/24/administrative-guidelines-for-managing-inherited-developer-keys#comments)
+
 
 ## Additional packages
 You can install these using the pip command from earlier.
@@ -47,6 +50,7 @@ I use this sometimes when I want to a see a progress bar in a script
 * [Visual Studio Code](https://code.visualstudio.com/)
     * [Python Extension for VSCode](https://marketplace.visualstudio.com/itemdetails?itemName=ms-python.python)
 * [Atom](https://atom.io/)
+* [Mu](https://codewith.mu/)
 
 ## Version Control
 * [git](https://git-scm.com/)
