@@ -16,9 +16,8 @@ canvas = Canvas(MYURL, MYTOKEN)
 ```
 These lines read from the config.ini file and select the instance. By changing the instance from test to prod or beta, you can change which instance the code will run in. I suggest running things in beta or test first, then running in prod when you see the desired result.
 
-# Resources
+# Resource Sites
 
-## Sites
 * [UCF canvasapi Documentation](https://canvasapi.readthedocs.io/en/latest/)
 * [Canvas API Documentation](https://canvas.instructure.com/doc/api/file.object_ids.html)
 * [Canvas Live API](https://calstatela.instructure.com/doc/api/live)
